@@ -1,0 +1,25 @@
+.hdg-duration-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.duration-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.tag-cont {
+  display: inline-flex;
+  list-style: none;
+  border-radius: 10px;
+  background-color: #b9c2ce;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 600;
+  block-size: 30px;
+  justify-content: flex-start;
+  align-items: center;
+}
